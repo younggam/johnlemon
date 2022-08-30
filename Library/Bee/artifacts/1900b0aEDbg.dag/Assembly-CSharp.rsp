@@ -369,8 +369,11 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.SpatialTracking.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
+"Assets/Scripts/GameEnding.cs"
 "Assets/Scripts/LightFlicker.cs"
+"Assets/Scripts/Observer.cs"
 "Assets/Scripts/PlayerMovement.cs"
+"Assets/Scripts/WaypointPatrol.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 
